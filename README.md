@@ -1,13 +1,3 @@
-手機:
-github: ziqinggao82-ux/1151VR-HW4-414262246-gzq 
-youtube:(電腦):https://youtu.be/n75Qs7J-Mss
-(手機版):https://youtu.be/GRnAajDC4GA
-
-
-
-
-
-
 
 一、匯入素材
 我先把平台切換為 Android,匯入直升機模型和三個音檔。把直升機放進 player,再另外建一個 Model 來調整機頭方向,這樣飛行方向就不會亂掉。
@@ -26,5 +16,8 @@ youtube:(電腦):https://youtu.be/n75Qs7J-Mss
 打開手機的開發者模式與和USB 偵錯，在 Build Profiles 確認平台為 Android，在 Player Settings 設定 Package Name 和橫式畫面，按下 Build And Run 輸出 APK。
 
 
- 
+github: ziqinggao82-ux/1151VR-HW4-414262246-gzq 
+youtube:(電腦):https://youtu.be/n75Qs7J-Mss
+(手機版):https://youtu.be/GRnAajDC4GA
+
 
